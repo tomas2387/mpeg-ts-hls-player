@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "webpack": "^1.12.11"
+    "webpack": "^2.2.0"
   },
   "devDependencies": {
     "babel-core": "^6.4.0",
